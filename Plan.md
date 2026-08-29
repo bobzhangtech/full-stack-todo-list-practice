@@ -1,11 +1,21 @@
-# Full Stack To-Do List Practice
+# Full-Stack To-Do List
 
 ## Features
 
+### CRUD
+* Create a task
+* Read and list tasks
+* Update task completion status
+* Delete tasks
+
 ## Tech Stack
 
+### Language
+* TypeScript
+
 ### Frontend
+* React
 
 ### Backend
-
-## MVP Roadmap
+* Node.js
+* PostgreSQL
